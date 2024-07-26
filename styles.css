@@ -1,0 +1,29 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  font-size: 3em;
+  color: #ff6f61;
+  margin: 0;
+}
+
+h1 span {
+  color: #ff4b5c;
+}
+
+p {
+  font-size: 1.5em;
+  color: #555;
+  margin-top: 10px;
+}
